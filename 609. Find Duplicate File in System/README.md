@@ -1,1 +1,1 @@
-https://leetcode.com/problems/count-student-number-in-departments/
+https://leetcode.com/problems/find-duplicate-file-in-system/
