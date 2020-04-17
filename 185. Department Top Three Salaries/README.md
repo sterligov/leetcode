@@ -1,1 +1,1 @@
-https://leetcode.com/problems/rising-temperature/
+https://leetcode.com/problems/department-top-three-salaries/
