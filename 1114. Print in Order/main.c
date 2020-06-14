@@ -48,6 +48,8 @@ void third(Foo* obj) {
 
 void fooFree(Foo* obj) {
     // User defined data may be cleaned up here.
+    pthread_mutex_destroy(obj->mu2);
+    pthread_mutex_destroy(obj->mu3);
     free(obj->mu2);
     free(obj->mu3);
     free(obj);
